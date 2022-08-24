@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+body
+{
+  background-color: rgba(148, 0, 211, 0.869);
+}
+.container {
+  width: 750px;
+  border-radius: 15px;
+  height: 350px;
+  background-color: rgb(188, 144, 238);
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+h1
+ {
+ text-align: center;
+  color: black;
+}
+
+.input {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 650px;
+  height: 30px;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+::placeholder {
+  color: rgb(3, 3, 3);
+  opacity: 1;
+  margin-left: 15px;
+}
+
+.submit {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 150px;
+  height: 30px;
+  border-radius: 15px;
+  color: goldenrod;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.newuser {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+.row {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+
